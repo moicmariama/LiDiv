@@ -1,0 +1,3 @@
+# Sauvegardes personnelles : ne jamais les publier
+*.json
+!manifest.webmanifest
